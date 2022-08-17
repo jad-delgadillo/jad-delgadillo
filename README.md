@@ -9,6 +9,8 @@
 - 💬 Ask me about ... Anything
 - ⚡ Fun fact: I've done music for National Geographic and Netflix.
 
+[portfolio]: https://www.alwaysjad.dev/
+
 <!--
 **jad-delgadillo/jad-delgadillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
