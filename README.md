@@ -1,5 +1,6 @@
-### Hi there 👋
-![](https://res.cloudinary.com/dzepeibjw/image/upload/v1659152027/Metadata-image---alw_nrcnx6.png)
+### Hello World, I'm Jorge  👋
+<img align="right" src="https://res.cloudinary.com/dzepeibjw/image/upload/v1659152027/Metadata-image---alw_nrcnx6.png" />
+
 <!--
 **jad-delgadillo/jad-delgadillo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
