@@ -1,7 +1,7 @@
 ### Hello World, I'm Jorge  👋
 <img align="right" src="https://res.cloudinary.com/dzepeibjw/image/upload/v1659152027/Metadata-image---alw_nrcnx6.png" />
 
-## I'm a Creative developer, Artist and Storyteller.
+## I'm a Creative developer, problem solver and storyteller.
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
 - 🌱 I’m currently learning React Native.
