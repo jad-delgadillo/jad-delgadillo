@@ -1,5 +1,6 @@
 ### Hello World, I'm Jorge  👋
 <img align="right" src="https://res.cloudinary.com/dzepeibjw/image/upload/v1659152027/Metadata-image---alw_nrcnx6.png" />
+
 ## I'm a Creative developer, Artist and Storyteller.
 - ✍ You can find my projects here [portfolio]
 - 🔭 I’m currently working on my first book.
